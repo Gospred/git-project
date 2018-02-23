@@ -1,0 +1,4 @@
+#remove all txt from doc and logs folder
+
+logs/*.txt
+docs/*.txt
