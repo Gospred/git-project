@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	php
+	<? php ?>
+	<h1>111</h1>
 </body>
 </html>
